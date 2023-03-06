@@ -1,8 +1,7 @@
 
 
 /*Page*/
-@import url(../blocks/root/root.css);
-@import url(../styles/normalize.css);
+@import url(../vendor/normalize.css);
 
 /*header*/
 
