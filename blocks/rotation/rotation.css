@@ -9,3 +9,8 @@
     transform:rotate(360deg);
   }
 }
+
+.rotation
+{
+  animation: rotation linear infinite normal  20s;
+}

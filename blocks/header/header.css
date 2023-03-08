@@ -1,9 +1,11 @@
 .header {
     display: flex;
-    min-height: 710px;
+    min-height: 600px;
     max-height: 756px;
     position: relative;
     background-color: #f2f2f2;
     overflow: hidden;
+    justify-content: center;
+    flex-direction: column;
     /* выше установили ограничения для секции */
   }

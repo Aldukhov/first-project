@@ -5,6 +5,6 @@
   position: absolute;
   bottom:0;
   right:0;
-  
+  object-fit: fill;
   z-index:1;
 }

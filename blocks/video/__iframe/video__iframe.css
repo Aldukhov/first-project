@@ -1,8 +1,12 @@
-.video__iframes
+.video__iframe
 {
-  display:flex;
-  margin-top:50px;
-  justify-content: center;
+  width: 515px;
+  height: 316px;
+
+  border-style: none;
+
+
+
 
 }
 

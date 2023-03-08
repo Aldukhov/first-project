@@ -1,6 +1,3 @@
-@import url(./../../rotation/rotation.css);
-
-
 .header__square-pic 
 {
     height: 568px;
@@ -11,8 +8,5 @@
     right:0;
     top:64px;
     
-    z-index: 0;
-
-    animation: rotation linear infinite normal  20s;
-    
+    z-index: 0;    
 }

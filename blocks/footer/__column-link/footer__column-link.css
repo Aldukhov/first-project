@@ -6,11 +6,12 @@
   font-weight: normal;
   text-decoration: none;
   color:white;
+  margin:0 0 10px 0;
     
 }
 
-.footer__column-link:nth-of-type(2n)
+.footer__column-link:last-child
 {
   
-  margin:10px 0;
+  margin:0;
 }
