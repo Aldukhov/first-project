@@ -1,16 +1,13 @@
-@keyframes rotation
-{
-  from
-  {
-    transform:rotate(0deg);
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
   }
-  to
-  {
-    transform:rotate(360deg);
+
+  to {
+    transform: rotate(360deg);
   }
 }
 
-.rotation
-{
-  animation: rotation linear infinite normal  20s;
+.rotation {
+  animation: rotation linear infinite normal 20s;
 }

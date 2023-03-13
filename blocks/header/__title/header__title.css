@@ -1,13 +1,12 @@
-.header__title
-{
-  display:flex;
-  
- 
-  max-width:600px;
+.header__title {
+  display: flex;
+
+
+  max-width: 600px;
   font-weight: 600;
   line-height: 96px;
   font-size: 102px;
-  margin:0 0 0 64px;
+  margin: 0 0 0 64px;
   z-index: 3;
- 
+
 }
