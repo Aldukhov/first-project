@@ -1,33 +1,31 @@
-Проект "Научиться учиться"
+Learning to Learn" project
 
-Проект состоит из следующих блоков:
+The project consists of the following blocks:
 
-header - содержит заголовок первого уровня и анимацию. Для реализации этого блока мы использовали абсолютное позиционирование объектов. Чтобы анимаия не выходила за пределы контейнера, используется параметр: overflow: hidden
+header - contains the first level header and animation. To implement this block we used absolute positioning of objects. To keep the animation within the container, the parameter: overflow: hidden is used.
 
-main - главна часть нашего проекта, состоящая из 9 секций, которые будут описаны ниже:
+main - the main part of our project, consisting of 9 sections, which will be described below:
 
-секция two-columns - реализована с помощью флекс-верстки.
+two-columns section - implemented using flex layout.
 
-секция techniques - реализована с помощью флекс-вёрстки. 
+techniques section - implemented using flex layout.
 
-секция video - реализована с помощью функции iframe. 
+video section - implemented using the iframe function.
 
-секция oakley - реализована по аналогии с секцией two columns
+oakley section - implemented similarly to the two-columns section.
 
-секция feynman - реализована с помощью флекс-вёрстки.
+feynman section - implemented using flex layout.
 
-секция digits - секция реализована с помощью флекс-вёрстки. 
+digits section - implemented with the help of flex-weaving.
 
-секция khan - реализована с помощью флекс-вёрстки.  
+khan section - implemented with the help of flex-weaving.
 
-секция кауфмана - реализована по аналогии с секцией dgits. 
+kaufman section - implemented similarly to the dgits section.
 
-секция rescources - реализована с помощью флекс-вёрстки. 
+rescources section - implemented with the help of flex-web.
 
-footer - подвал сайта реализован с помощью флекс-вёрстки. внутри подвала находится
+footer - the basement of the site is implemented with the help of flex-web.
 
-и
-. Ссылки включают в себя иконки.
-Дополнительный функционал:
+и . Links include icons. Additional functionality:
 
-Анимация реализована с помощью @keyframes
+Animation is implemented using @keyframes
